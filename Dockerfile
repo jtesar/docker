@@ -1,1 +1,1 @@
-rom quay.io/jirka_tesar/myhttpd
+from quay.io/jirka_tesar/myhttpd
